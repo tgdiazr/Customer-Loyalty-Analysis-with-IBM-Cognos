@@ -1,1 +1,1 @@
-
+https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FA%2B-%2BProduct%2BSales&action=view&mode=dashboard&subView=model00000194c85011b3_00000000
