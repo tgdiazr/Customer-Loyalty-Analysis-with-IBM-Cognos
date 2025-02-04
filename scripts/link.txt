@@ -1,1 +1,6 @@
+First part
+
 https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FA%2B-%2BProduct%2BSales&action=view&mode=dashboard&subView=model00000194c85011b3_00000000
+
+Second part
+https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAdvanced%2Bdashboard&action=view&mode=dashboard&subView=model00000194d25aa7cb_00000001
